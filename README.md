@@ -1,5 +1,5 @@
 - 👋 Hey, I’m @cornellervintaylor
-- 👀 I’m interested in developing my skills as a Front-End Developer
+- 👀 I’m interested in learning new languages
 - 🌱 I’m currently learning JS and jQuery
 - 💞️ I’m looking to collaborate on projects to build my portfolio
 - 📫 You can learn more about me at cornellervintaylor.com
